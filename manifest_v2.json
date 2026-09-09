@@ -14,7 +14,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "使用教程",
+      "url": "https://loop.zaona.top/",
+      "icon": "Notebook"
+    }
+  ],
   "downloads": {
     "xmb10p": {
       "version": "0.1.0",
@@ -23,10 +29,12 @@
   },
   "ext": {
     "bundledResources": {
-      "required": [{
-        "type": "plugin",
-        "id": "Loop课表导入器"
-      }]
+      "required": [
+        {
+          "type": "plugin",
+          "id": "Loop课表导入器"
+        }
+      ]
     }
   }
 }
