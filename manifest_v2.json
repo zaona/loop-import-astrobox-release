@@ -26,17 +26,17 @@
   "downloads": {
     "xmb10p": {
       "version": "0.2.0",
-      "file_name": "downloads/top.zaona.loopimport.release.0.2.0-xmb10p.rpk",
+      "file_name": "downloads/top.zaona.loopimport.release.0.2.0.rpk",
       "versionCode": 2
     },
     "xmb11": {
       "version": "0.2.0",
-      "file_name": "downloads/top.zaona.loopimport.release.0.2.0-xmb10p.rpk",
+      "file_name": "downloads/top.zaona.loopimport.release.0.2.0.rpk",
       "versionCode": 2
     },
     "xmb11nfc": {
       "version": "0.2.0",
-      "file_name": "downloads/top.zaona.loopimport.release.0.2.0-xmb11nfc.rpk",
+      "file_name": "downloads/top.zaona.loopimport.release.0.2.0.rpk",
       "versionCode": 2
     }
   },
